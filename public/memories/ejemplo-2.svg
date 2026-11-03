@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b8dcff"/><stop offset="1" stop-color="#d9c7ff"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M400 380c-90-60-150-110-150-170 0-45 35-75 75-75 30 0 55 18 75 45 20-27 45-45 75-45 40 0 75 30 75 75 0 60-60 110-150 170z" fill="#fff" opacity=".85"/>
+  <text x="400" y="470" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="700" fill="#fff">Cambia esta foto (ejemplo-2)</text>
+</svg>

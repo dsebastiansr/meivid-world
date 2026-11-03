@@ -1,0 +1,498 @@
+[
+  {
+    "id": "prop-3f72e01d",
+    "kind": "torii",
+    "x": -0.31163551612697027,
+    "z": 12.610578789017396,
+    "rotation": 0
+  },
+  {
+    "id": "prop-bb189222",
+    "kind": "cerca",
+    "x": -2.80965219116762,
+    "z": 13.225892823437087,
+    "rotation": 15
+  },
+  {
+    "id": "prop-f3d7e5b1",
+    "kind": "cerca",
+    "x": -5.037500952842141,
+    "z": 14.548541837552214,
+    "rotation": 45
+  },
+  {
+    "id": "prop-7b0af006",
+    "kind": "cerca",
+    "x": 2.131443087968321,
+    "z": 13.192416380979004,
+    "rotation": 165
+  },
+  {
+    "id": "prop-79220d2e",
+    "kind": "arbol-grande",
+    "x": -5.663824090470904,
+    "z": 10.522703968081885,
+    "rotation": 90
+  },
+  {
+    "id": "prop-3cd9e103",
+    "kind": "pino-alto",
+    "x": -11.034099114768646,
+    "z": -7.733323339919231,
+    "rotation": 0
+  },
+  {
+    "id": "prop-54554848",
+    "kind": "pino",
+    "x": 8.776670236866122,
+    "z": 6.666478973368223,
+    "rotation": 0
+  },
+  {
+    "id": "prop-d3127f37",
+    "kind": "arbusto-flores",
+    "x": 3.1019449215330455,
+    "z": 9.927788020120094,
+    "rotation": 0
+  },
+  {
+    "id": "prop-005c906c",
+    "kind": "flores",
+    "x": -2.460725992610808,
+    "z": 11.95060609776027,
+    "rotation": 0
+  },
+  {
+    "id": "prop-b882d486",
+    "kind": "roca",
+    "x": -3.624626936476138,
+    "z": 12.143541388894885,
+    "rotation": 0
+  },
+  {
+    "id": "prop-b37470d1",
+    "kind": "plantas",
+    "x": -5.167933719396741,
+    "z": 13.063208781511792,
+    "rotation": 0
+  },
+  {
+    "id": "prop-d71dd77c",
+    "kind": "plantas",
+    "variant": "pasto-fino-alto",
+    "x": 1.4235595148777391,
+    "z": 12.1076188483755,
+    "rotation": 0
+  },
+  {
+    "id": "prop-4e9a0dd3",
+    "kind": "plantas",
+    "variant": "pasto-fino",
+    "x": 1.8705957292935178,
+    "z": 12.646770481664264,
+    "rotation": 0
+  },
+  {
+    "id": "prop-8af3c4a5",
+    "kind": "calabaza",
+    "variant": "lisa",
+    "x": 5.375758127894287,
+    "z": -0.8205308257304544,
+    "rotation": 75
+  },
+  {
+    "id": "prop-921d1353",
+    "kind": "calabaza",
+    "variant": "chica",
+    "x": 5.450646214603797,
+    "z": -0.09068277196157659,
+    "rotation": -30
+  },
+  {
+    "id": "prop-ade0a981",
+    "kind": "hongos",
+    "x": -1.9722648799375961,
+    "z": 13.376757641231631,
+    "rotation": 30
+  },
+  {
+    "id": "prop-03fc7f34",
+    "kind": "canoa",
+    "x": 8.948764136015141,
+    "z": 11.693432957566742,
+    "rotation": -15
+  },
+  {
+    "id": "prop-112270b2",
+    "kind": "arbol",
+    "x": -11.395356710466027,
+    "z": -2.672433715447596,
+    "rotation": 0
+  },
+  {
+    "id": "prop-5f32d0ab",
+    "kind": "arbol",
+    "variant": "alto",
+    "x": -9.622416354893566,
+    "z": -0.9942954801053112,
+    "rotation": 0
+  },
+  {
+    "id": "prop-2290a726",
+    "kind": "arbol",
+    "variant": "grande",
+    "x": -10.925987609369011,
+    "z": -5.703786389581492,
+    "rotation": 0
+  },
+  {
+    "id": "prop-5eb02a4e",
+    "kind": "arbol",
+    "variant": "alto",
+    "x": -9.185118790789085,
+    "z": -8.473242521989647,
+    "rotation": 0
+  },
+  {
+    "id": "prop-78f194d7",
+    "kind": "arbol",
+    "variant": "alto",
+    "x": -5.71624884434502,
+    "z": -8.411167491271785,
+    "rotation": 0
+  },
+  {
+    "id": "prop-8eefc8b5",
+    "kind": "arbol",
+    "variant": "frondoso",
+    "x": -7.659761508205736,
+    "z": -7.595577215344648,
+    "rotation": 0
+  },
+  {
+    "id": "prop-e9d0830d",
+    "kind": "arbol",
+    "variant": "normal",
+    "x": -7.062294839061748,
+    "z": -9.080705423890162,
+    "rotation": 0
+  },
+  {
+    "id": "prop-53e4060b",
+    "kind": "arbol",
+    "variant": "normal",
+    "x": -5.3252734637725405,
+    "z": -9.55026853765415,
+    "rotation": 0
+  },
+  {
+    "id": "prop-2ba78551",
+    "kind": "arbol",
+    "variant": "normal",
+    "x": -8.934040763737721,
+    "z": -10.29161537154917,
+    "rotation": 0
+  },
+  {
+    "id": "prop-a4aea64a",
+    "kind": "tienda",
+    "x": -8.904968512633506,
+    "z": -5.8536242233683184,
+    "rotation": 225
+  },
+  {
+    "id": "prop-1d2bc5c1",
+    "kind": "madera",
+    "x": -10.021859352772829,
+    "z": -3.4086938239254945,
+    "rotation": 195
+  },
+  {
+    "id": "prop-9dcf98c3",
+    "kind": "madera",
+    "variant": "tronco",
+    "x": -6.438262613335318,
+    "z": -7.004994111436176,
+    "rotation": 285
+  },
+  {
+    "id": "prop-9a652eed",
+    "kind": "madera",
+    "variant": "tronco",
+    "x": -4.623242770466216,
+    "z": -6.644821701493601,
+    "rotation": 240
+  },
+  {
+    "id": "prop-45c7026d",
+    "kind": "arbol",
+    "variant": "seco",
+    "x": 6.274620739215584,
+    "z": -1.4969538804931606,
+    "rotation": 0
+  },
+  {
+    "id": "prop-8c63c1fc",
+    "kind": "arbol",
+    "variant": "seco",
+    "x": 4.729964772689372,
+    "z": -1.4661520875540166,
+    "rotation": 90
+  },
+  {
+    "id": "prop-16b49dc8",
+    "kind": "pino",
+    "x": 7.312819218192482,
+    "z": -2.171893423423544,
+    "rotation": 15
+  },
+  {
+    "id": "prop-9e046f77",
+    "kind": "roca",
+    "variant": "grande",
+    "x": 7.10699368799738,
+    "z": 0.38207190457180396,
+    "rotation": -15
+  },
+  {
+    "id": "prop-f6a1eeed",
+    "kind": "roca",
+    "variant": "pequena",
+    "x": 3.975376256144031,
+    "z": -1.0387007894168026,
+    "rotation": -15
+  },
+  {
+    "id": "prop-1a97354c",
+    "kind": "flores",
+    "x": -0.6486281544764789,
+    "z": 3.623461443101137,
+    "rotation": -75
+  },
+  {
+    "id": "prop-ec331cfc",
+    "kind": "flores",
+    "variant": "flor-1",
+    "x": -2.4258032298499694,
+    "z": 4.105917073166481,
+    "rotation": -75
+  },
+  {
+    "id": "prop-19201e65",
+    "kind": "flores",
+    "variant": "ramo-2",
+    "x": -2.401202200850885,
+    "z": 3.351649757237306,
+    "rotation": -75
+  },
+  {
+    "id": "prop-f8dfc5f5",
+    "kind": "flores",
+    "variant": "trebol-2",
+    "x": -0.9069937937820525,
+    "z": 2.989117898226727,
+    "rotation": -75
+  },
+  {
+    "id": "prop-936ba4d1",
+    "kind": "flores",
+    "variant": "trebol-2",
+    "x": -0.6307051263055274,
+    "z": 3.125516955726903,
+    "rotation": -45
+  },
+  {
+    "id": "prop-252eda21",
+    "kind": "arbusto",
+    "variant": "flores",
+    "x": -2.1448739949160593,
+    "z": 2.486883410433352,
+    "rotation": -45
+  },
+  {
+    "id": "prop-da676c30",
+    "kind": "arbusto",
+    "variant": "flores",
+    "x": -0.9334633585964349,
+    "z": 2.336987636466459,
+    "rotation": -45
+  },
+  {
+    "id": "prop-f0e6b095",
+    "kind": "cerca",
+    "x": -4.53040734503387,
+    "z": -12.782591301448695,
+    "rotation": 30
+  },
+  {
+    "id": "prop-6e6f6130",
+    "kind": "cerca",
+    "x": -2.185672538038165,
+    "z": -13.38670552601826,
+    "rotation": 0
+  },
+  {
+    "id": "prop-a8ff3480",
+    "kind": "cerca",
+    "x": 0.19442492324523575,
+    "z": -12.721511040057212,
+    "rotation": -30
+  },
+  {
+    "id": "prop-aade3a90",
+    "kind": "cerca",
+    "x": 2.4514688945031615,
+    "z": -11.575451268254024,
+    "rotation": -15
+  },
+  {
+    "id": "prop-3f699af7",
+    "kind": "cerca",
+    "x": 4.676860850277214,
+    "z": -10.518409608229481,
+    "rotation": -30
+  },
+  {
+    "id": "prop-2d4e83b2",
+    "kind": "cerca",
+    "x": 6.796916478609263,
+    "z": -9.2405275497299,
+    "rotation": -30
+  },
+  {
+    "id": "prop-6781dbf0",
+    "kind": "cerca",
+    "x": 8.998707608226013,
+    "z": -8.202826094867461,
+    "rotation": -15
+  },
+  {
+    "id": "prop-a42d2c1d",
+    "kind": "cerca",
+    "x": 10.824642507400522,
+    "z": -6.749697267884848,
+    "rotation": -60
+  },
+  {
+    "id": "prop-525a992f",
+    "kind": "cerca",
+    "x": 11.868759331172862,
+    "z": -3.984613016416363,
+    "rotation": -75
+  },
+  {
+    "id": "prop-ce95b717",
+    "kind": "cerca",
+    "x": 11.633926582024356,
+    "z": -0.8380059546558307,
+    "rotation": -105
+  },
+  {
+    "id": "prop-16868b55",
+    "kind": "cerca",
+    "x": 11.170084020221285,
+    "z": 2.0323316758424284,
+    "rotation": -90
+  },
+  {
+    "id": "prop-2aabfe24",
+    "kind": "cerca",
+    "x": 10.787690677471002,
+    "z": 5.107802532352329,
+    "rotation": -105
+  },
+  {
+    "id": "prop-ae7c6725",
+    "kind": "cerca",
+    "x": 9.965283807910746,
+    "z": 8.147071200914239,
+    "rotation": -105
+  },
+  {
+    "id": "prop-b42c9226",
+    "kind": "cerca",
+    "x": -6.2314196961516,
+    "z": -11.062741808379634,
+    "rotation": -120
+  },
+  {
+    "id": "prop-6dd64b9a",
+    "kind": "hongos",
+    "variant": "naranja",
+    "x": -3.3362673929247233,
+    "z": -12.700560790299834,
+    "rotation": 75
+  },
+  {
+    "id": "prop-0dd54e5a",
+    "kind": "hongos",
+    "variant": "naranja",
+    "x": -6.093739251710697,
+    "z": -9.139965574277328,
+    "rotation": 75
+  },
+  {
+    "id": "prop-c34bbc94",
+    "kind": "hongos",
+    "variant": "naranja",
+    "x": -9.397299085808351,
+    "z": -9.366556749264056,
+    "rotation": 75
+  },
+  {
+    "id": "prop-8c5a6605",
+    "kind": "hongos",
+    "variant": "comun",
+    "x": -11.18899174917534,
+    "z": -6.8443837876172555,
+    "rotation": 75
+  },
+  {
+    "id": "prop-8a0498bd",
+    "kind": "hongos",
+    "variant": "comun",
+    "x": -11.311325166203654,
+    "z": -3.8139197987222033,
+    "rotation": 75
+  },
+  {
+    "id": "prop-d6c8978c",
+    "kind": "hongos",
+    "variant": "comun",
+    "x": -11.201036424811614,
+    "z": -4.9525344652337076,
+    "rotation": 75
+  },
+  {
+    "id": "prop-d7c9f918",
+    "kind": "hongos",
+    "variant": "comun",
+    "x": -10.380209193034172,
+    "z": -6.8908723105770795,
+    "rotation": 75
+  },
+  {
+    "id": "prop-75c03dbe",
+    "kind": "hongos",
+    "variant": "comun",
+    "x": -8.455888836889399,
+    "z": -8.955390973799535,
+    "rotation": 75
+  },
+  {
+    "id": "prop-0e6f9c89",
+    "kind": "piedritas",
+    "variant": "redonda-3",
+    "x": -5.7250633611984245,
+    "z": -5.696405744444688,
+    "rotation": 60
+  },
+  {
+    "id": "prop-11751f01",
+    "kind": "piedritas",
+    "variant": "redonda-1",
+    "x": -6.212225123120964,
+    "z": -10.765551524156015,
+    "rotation": 60
+  }
+]

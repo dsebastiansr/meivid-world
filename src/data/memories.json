@@ -1,0 +1,87 @@
+[
+  {
+    "id": "mem-c2fcca1e",
+    "titulo": "Donde todo empezó",
+    "fecha": "2026-10-03",
+    "texto": "Ese día ambos sabíamos lo que iba a pasar. Yo llevaba semanas muriéndome de ganas de decirte todo lo que mi corazón sentía, pero sabía que aún no podía hacerlo.\n\nDesde que terminamos el recorrido de los animales ya quería decírtelo, pero no sabía dónde. Hacía mucho tiempo que no iba al Parque Histórico y no sabía cuál era un lugar bonito para decir las palabras que llevaba en la punta de la lengua desde hacía semanas.\n\nCuando nos sentamos en ese balcón, ya estaba decidido a hacerlo. Me armé de valor para decirlo sin llorar, pero al final me ganaron los sentimientos. Me vinieron a la cabeza todos esos primeros momentos que tuvimos: nuestros primeros besos y abrazos, nuestras primeras palabras bonitas, nuestras salidas sencillas pero especiales. Y mientras más recordaba, más seguro estaba de que tú eras la chica que quería para mi futuro.\n\nEntonces te lo dije y, con mucho entusiasmo, me dijiste: “¡SÍ!”. Después de eso sentí un alivio enorme, porque llevaba algún tiempo queriendo decírtelo. Luego, abajo, era tu turno.\n\nMe diste el cuadro de Wall-E y Eva, y de nuevo rompí en llanto. Era la primera vez que alguien me regalaba algo así. Saber que te esforzaste y le dedicaste tiempo a algo que te salió del corazón, con una de mis películas favoritas, solo hizo que me gustaras aún más.\n\nTe amo mucho, Mei. Este día fue el inicio de muchos momentos bonitos que viviremos juntos.",
+    "foto": "/memories/donde-todo-empezo-1.jpg",
+    "posicion": [
+      -1.573317376620988,
+      0,
+      3.6501150269968523
+    ],
+    "rotacion": 375,
+    "tipo": "banca",
+    "fotos": [
+      "/memories/donde-todo-empezo-1.jpg",
+      "/memories/donde-todo-empezo-2.jpg"
+    ]
+  },
+  {
+    "id": "mem-184ecd0b",
+    "titulo": "Halloween",
+    "fecha": "2026-10-31",
+    "texto": "Quedamos muy bonitos. Desde que me desperté ese día estaba ansioso por usar mi disfraz de Zuko y, sobre todo, por verte vestida de Mai (¡qué hermosa!). A pesar de que Odisea estaba hueso, lo que más me importaba era pasarla bien contigo.\n\nAl final de la noche, en el McDonald’s, repetí esa pregunta que me hiciste: “¿Este Halloween está mejor que el del año pasado?”.\n\nSimplemente miré a todos lados y me di cuenta de que sí. Estaba rodeado de buena compañía: principalmente de ti, y también de Adrián, Eduardo y Enrique. Me di cuenta de lo mucho que cambió todo de un año a otro: de sentirme solo a por fin estar con alguien con quien realmente quería estar, además de tener amigos.\n\nEl próximo año nos toca Anakin y Padmé, jeje.",
+    "foto": "/memories/halloween-1.jpg",
+    "fotos": [
+      "/memories/halloween-1.jpg",
+      "/memories/halloween-2.jpg",
+      "/memories/halloween-3.jpg",
+      "/memories/halloween-4.jpg"
+    ],
+    "posicion": [
+      4.764552907751956,
+      0,
+      -0.1356246231922178
+    ],
+    "rotacion": -15,
+    "tipo": "calabaza",
+    "cancion": "/songs/halloween.m4a",
+    "cancionInicio": 2
+  },
+  {
+    "id": "mem-14d45567",
+    "titulo": "Nuestro día de playa",
+    "fecha": "2026-08-09",
+    "texto": "Nunca me imaginé tener un día de playa junto a ti tan pronto. Lo lindo que fue madrugar para verte, pasar todo el día juntos, que conectaras más con mi familia, la playa, el vóley, el mar, nadar contigo... Todas esas experiencias eran nuevas para mí, y fui muy afortunado de poder vivirlas por primera vez contigo.\n\nDejando de lado que ese día se me tapó un oído y me quedé sordo dos días enteros, es uno de los días más hermosos que he pasado contigo, mi chinita.\n\nYa recorrimos un poco de la Costa; ahora nos toca la Sierra.",
+    "foto": "/memories/nuestro-dia-de-playa-1.jpg",
+    "fotos": [
+      "/memories/nuestro-dia-de-playa-1.jpg",
+      "/memories/nuestro-dia-de-playa-2.jpg",
+      "/memories/nuestro-dia-de-playa-3.jpg"
+    ],
+    "posicion": [
+      5.6519423135701965,
+      0,
+      11.51273632913747
+    ],
+    "rotacion": 750,
+    "tipo": "sillas",
+    "cancion": "/songs/playa.m4a",
+    "cancionInicio": 6
+  },
+  {
+    "id": "mem-3a998c23",
+    "titulo": "Omakase Tour",
+    "fecha": "2026-09-06",
+    "texto": "Lo hermosa que te veías ese día... \n\nNunca olvidaré cómo acaparaste todas las miradas en la fila. Era increíble: por fin tenía a mi chinita linda para cantarle y dedicarle todas las canciones de Alvarito. Al fin las letras tenían un significado; por fin tenía en quién pensar cada vez que las escuchaba.",
+    "foto": "/memories/omakase-tour-1.jpg",
+    "fotos": [
+      "/memories/omakase-tour-1.jpg",
+      "/memories/omakase-tour-2.jpg",
+      "/memories/omakase-tour-3.jpg",
+      "/memories/omakase-tour-4.jpg",
+      "/memories/omakase-tour-5.jpg",
+      "/memories/omakase-tour-6.jpg"
+    ],
+    "posicion": [
+      -8.785792258976116,
+      0,
+      -3.6951220242138163
+    ],
+    "rotacion": 45,
+    "tipo": "radio",
+    "cancion": "/songs/concierto.m4a",
+    "cancionInicio": 0
+  }
+]

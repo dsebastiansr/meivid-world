@@ -1,0 +1,117 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/nunito";
+
+/* ─────────────────────────────────────────────────────────────
+   Colores de la interfaz (los usan los componentes de shadcn).
+   Cambia estos valores para cambiar el estilo de botones, modal, etc.
+   En Tailwind se usan así: bg-primary, text-muted-foreground, border-border…
+   ───────────────────────────────────────────────────────────── */
+:root {
+  --background: #fff8ee; /* crema */
+  --foreground: #5a4650; /* texto principal */
+  --card: #fff8ee;
+  --card-foreground: #5a4650;
+  --popover: #fff8ee; /* fondo del modal */
+  --popover-foreground: #5a4650;
+  --primary: #e8728f; /* rosa de los botones */
+  --primary-foreground: #ffffff;
+  --primary-shadow: #c95a77; /* sombrita "3D" bajo el botón principal */
+  --secondary: #ffe4ec;
+  --secondary-foreground: #5a4650;
+  --muted: #f6ece2;
+  --muted-foreground: #8a7380;
+  --accent: #ffe4ec;
+  --accent-foreground: #5a4650;
+  --destructive: #e5484d;
+  --border: #eadccf;
+  --input: #eadccf;
+  --ring: #ffb6c9;
+  --chart-1: #ffb6c9;
+  --chart-2: #8ec5ff;
+  --chart-3: #a8e08c;
+  --chart-4: #ffd86b;
+  --chart-5: #c9b6ff;
+  --radius: 0.7rem; /* qué tan redondeadas son las esquinas */
+  --sidebar: #fff8ee;
+  --sidebar-foreground: #5a4650;
+  --sidebar-primary: #e8728f;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #ffe4ec;
+  --sidebar-accent-foreground: #5a4650;
+  --sidebar-border: #eadccf;
+  --sidebar-ring: #ffb6c9;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: 'Nunito Variable', 'Trebuchet MS', system-ui, sans-serif;
+  --color-primary-shadow: var(--primary-shadow);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  html,
+  body,
+  #root {
+    @apply m-0 size-full overflow-hidden;
+  }
+  body {
+    @apply bg-[#bfe6ff] text-foreground;
+    /* Evita zoom, scroll y selección de texto al jugar en celular */
+    touch-action: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
